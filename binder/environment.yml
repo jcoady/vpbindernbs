@@ -1,7 +1,6 @@
 channels:
     - conda-forge
 dependencies:
-    - pypy==7.3.7
-    - jupyterlab==3.4.4
+    - pypy
     - numpy
     - matplotlib
