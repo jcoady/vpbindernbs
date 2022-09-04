@@ -2,7 +2,7 @@ channels:
     - conda-forge
 dependencies:
     - python=3.7.10
-    - pypy
+    - pypy=7.3.7
     - numpy
     - matplotlib
     - vpython
