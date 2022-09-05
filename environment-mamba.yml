@@ -1,7 +1,7 @@
 name: _mamba
 channels:
-- conda-forge
-- nodefaults
+  - conda-forge
+  - nodefaults
 dependencies:
-- mamba
-- pybind11
+  - mamba
+  - pybind11
