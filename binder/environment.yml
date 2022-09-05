@@ -3,3 +3,5 @@ channels:
 dependencies:
     - numpy
     - matplotlib
+    - vpython
+    - jupyterlab-vpython
