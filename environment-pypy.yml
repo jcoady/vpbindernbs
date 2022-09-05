@@ -1,0 +1,13 @@
+name: pypy-notebook
+
+channels:
+    - conda-forge
+dependencies:
+    - pypy
+    - numpy
+    - matplotlib
+    - jupyterlab==3.3.3
+    - pip
+      - vpython
+      - jupyterlab-vpython
+      
