@@ -1,8 +1,0 @@
-channels:
-    - conda-forge
-dependencies:
-    # - pypy=7.3.7
-    - numpy
-    - matplotlib
-    - vpython
-    - jupyterlab-vpython
